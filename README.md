@@ -29,8 +29,13 @@ A responsive 3-page website built using **HTML5** and **CSS3**, demonstrating se
 - Lighthouse audit passed with Accessibility ≥ 90
 
 ## Lighthouse Screenshots
-- **Before:** Add screenshot if available  
-- **After:** Add screenshot if available
+
+- **Before:**  
+  ![Before Lighthouse](/lighthouse/lightbefore.png)
+
+- **After:**  
+  ![After Lighthouse](/lighthouse/lightafter.png)
+
 
 ## Live Site
 Check the deployed website here: [Web Interface Live](https://ally026.github.io/web-interface/)
